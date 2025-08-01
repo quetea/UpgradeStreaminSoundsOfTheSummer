@@ -1,0 +1,83 @@
+{
+  "sounds" : [
+    {
+      "customSortIndex" : 0,
+      "color" : "0174DA",
+      "image" : "png",
+      "name" : "Chevy Bolt"
+    },
+    {
+      "customSortIndex" : 1,
+      "color" : "0779FF",
+      "image" : "png",
+      "name" : "Amazon Prime"
+    },
+    {
+      "customSortIndex" : 2,
+      "color" : "09A7B9",
+      "image" : "jpeg",
+      "name" : "Disney +"
+    },
+    {
+      "customSortIndex" : 3,
+      "color" : "FFC016",
+      "image" : "png",
+      "name" : "FX"
+    },
+    {
+      "customSortIndex" : 4,
+      "color" : "707070",
+      "image" : "png",
+      "name" : "HBO"
+    },
+    {
+      "customSortIndex" : 5,
+      "color" : "02F58A",
+      "image" : "png",
+      "name" : "Hulu"
+    },
+    {
+      "customSortIndex" : 6,
+      "color" : "E40913",
+      "image" : "jpeg",
+      "name" : "Netflix"
+    },
+    {
+      "customSortIndex" : 7,
+      "color" : "FADE00",
+      "image" : "jpeg",
+      "name" : "Peacock"
+    },
+    {
+      "customSortIndex" : 8,
+      "color" : "E23840",
+      "image" : "jpeg",
+      "name" : "Showtime"
+    },
+    {
+      "customSortIndex" : 9,
+      "color" : "C2C2C2",
+      "image" : "png",
+      "name" : "Vision Pro"
+    },
+    {
+      "customSortIndex" : 10,
+      "color" : "678493",
+      "image" : "png",
+      "name" : "Apple TV +"
+    },
+    {
+      "customSortIndex" : 11,
+      "color" : "C2C2C2",
+      "image" : "jpeg",
+      "name" : "Macintosh"
+    }
+  ],
+  "showSoundNames" : false,
+  "color" : "FF9230",
+  "audioSource" : "https://podcasts.apple.com/us/podcast/upgrade/id918152703?i=1000719554308",
+  "image" : "jpeg",
+  "description" : "☀️ Summer of Fun ☀️ from Upgrade episode 574",
+  "sorts" : "[{\"isForward\":true,\"sortValue\":\"customSortIndex\"}]",
+  "name" : "Streamin’ Sounds Of The Summer"
+}
