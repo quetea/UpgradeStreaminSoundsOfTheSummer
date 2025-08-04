@@ -71,7 +71,12 @@
       "color" : "C2C2C2",
       "image" : "jpeg",
       "name" : "Macintosh"
-    }
+    },
+    {
+      "name" : "Paramount +",
+      "image" : "jpeg",
+      "customSortIndex" : 12
+    },
   ],
   "showSoundNames" : false,
   "color" : "FF9230",
